@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+<defs><linearGradient id="aire" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E8000B" stop-opacity=".55"/><stop offset="1" stop-color="#E8000B" stop-opacity=".04"/></linearGradient></defs>
+<rect x=".5" y=".5" width="999" height="419" rx="6" fill="#0d1117" stroke="#E8000B"/>
+<text x="500.0" y="38" text-anchor="middle" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="600" fill="#ffffff">Mes contributions</text>
+<line x1="80" y1="350.0" x2="965" y2="350.0" stroke="#ffffff" stroke-opacity=".12" stroke-dasharray="4 4"/>
+<text x="68" y="354.0" text-anchor="end" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#ffffff">0</text>
+<line x1="80" y1="280.0" x2="965" y2="280.0" stroke="#ffffff" stroke-opacity=".12" stroke-dasharray="4 4"/>
+<text x="68" y="284.0" text-anchor="end" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#ffffff">3</text>
+<line x1="80" y1="210.0" x2="965" y2="210.0" stroke="#ffffff" stroke-opacity=".12" stroke-dasharray="4 4"/>
+<text x="68" y="214.0" text-anchor="end" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#ffffff">6</text>
+<line x1="80" y1="140.0" x2="965" y2="140.0" stroke="#ffffff" stroke-opacity=".12" stroke-dasharray="4 4"/>
+<text x="68" y="144.0" text-anchor="end" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#ffffff">9</text>
+<line x1="80" y1="70.0" x2="965" y2="70.0" stroke="#ffffff" stroke-opacity=".12" stroke-dasharray="4 4"/>
+<text x="68" y="74.0" text-anchor="end" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#ffffff">12</text>
+<line x1="80.0" y1="70" x2="80.0" y2="350" stroke="#ffffff" stroke-opacity=".05"/>
+<text x="80.0" y="370" text-anchor="middle" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#ffffff">14</text>
+<line x1="168.5" y1="70" x2="168.5" y2="350" stroke="#ffffff" stroke-opacity=".05"/>
+<text x="168.5" y="370" text-anchor="middle" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#ffffff">17</text>
+<line x1="257.0" y1="70" x2="257.0" y2="350" stroke="#ffffff" stroke-opacity=".05"/>
+<text x="257.0" y="370" text-anchor="middle" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#ffffff">20</text>
+<line x1="345.5" y1="70" x2="345.5" y2="350" stroke="#ffffff" stroke-opacity=".05"/>
+<text x="345.5" y="370" text-anchor="middle" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#ffffff">23</text>
+<line x1="434.0" y1="70" x2="434.0" y2="350" stroke="#ffffff" stroke-opacity=".05"/>
+<text x="434.0" y="370" text-anchor="middle" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#ffffff">26</text>
+<line x1="522.5" y1="70" x2="522.5" y2="350" stroke="#ffffff" stroke-opacity=".05"/>
+<text x="522.5" y="370" text-anchor="middle" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#ffffff">29</text>
+<line x1="611.0" y1="70" x2="611.0" y2="350" stroke="#ffffff" stroke-opacity=".05"/>
+<text x="611.0" y="370" text-anchor="middle" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#ffffff">1</text>
+<line x1="699.5" y1="70" x2="699.5" y2="350" stroke="#ffffff" stroke-opacity=".05"/>
+<text x="699.5" y="370" text-anchor="middle" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#ffffff">4</text>
+<line x1="788.0" y1="70" x2="788.0" y2="350" stroke="#ffffff" stroke-opacity=".05"/>
+<text x="788.0" y="370" text-anchor="middle" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#ffffff">7</text>
+<line x1="876.5" y1="70" x2="876.5" y2="350" stroke="#ffffff" stroke-opacity=".05"/>
+<text x="876.5" y="370" text-anchor="middle" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#ffffff">10</text>
+<line x1="965.0" y1="70" x2="965.0" y2="350" stroke="#ffffff" stroke-opacity=".05"/>
+<text x="965.0" y="370" text-anchor="middle" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#ffffff">13</text>
+<path d="M80.0,350.0 C84.9,350.0 99.7,350.0 109.5,350.0 C119.3,350.0 129.2,350.0 139.0,350.0 C148.8,350.0 158.7,350.0 168.5,350.0 C178.3,350.0 188.2,350.0 198.0,350.0 C207.8,350.0 217.7,350.0 227.5,350.0 C237.3,350.0 247.2,350.0 257.0,350.0 C266.8,350.0 276.7,350.0 286.5,350.0 C296.3,350.0 306.2,350.0 316.0,350.0 C325.8,350.0 335.7,350.0 345.5,350.0 C355.3,350.0 365.2,350.0 375.0,350.0 C384.8,350.0 394.7,350.0 404.5,350.0 C414.3,350.0 424.2,350.0 434.0,350.0 C443.8,350.0 453.7,350.0 463.5,350.0 C473.3,350.0 483.2,350.0 493.0,350.0 C502.8,350.0 512.7,350.0 522.5,350.0 C532.3,350.0 542.2,350.0 552.0,350.0 C561.8,350.0 571.7,350.0 581.5,350.0 C591.3,350.0 601.2,350.0 611.0,350.0 C620.8,350.0 630.7,350.0 640.5,350.0 C650.3,350.0 660.2,350.0 670.0,350.0 C679.8,350.0 689.7,350.0 699.5,350.0 C709.3,350.0 719.2,350.0 729.0,350.0 C738.8,350.0 748.7,350.0 758.5,350.0 C768.3,350.0 778.2,350.0 788.0,350.0 C797.8,350.0 807.7,350.0 817.5,350.0 C827.3,350.0 837.2,350.0 847.0,350.0 C856.8,307.2 866.7,136.1 876.5,93.3 C886.3,93.3 896.2,93.3 906.0,93.3 C915.8,136.1 925.7,334.4 935.5,350.0 C945.3,350.0 960.1,213.9 965.0,186.7 L965.0,350 L80.0,350 Z" fill="url(#aire)"/>
+<path d="M80.0,350.0 C84.9,350.0 99.7,350.0 109.5,350.0 C119.3,350.0 129.2,350.0 139.0,350.0 C148.8,350.0 158.7,350.0 168.5,350.0 C178.3,350.0 188.2,350.0 198.0,350.0 C207.8,350.0 217.7,350.0 227.5,350.0 C237.3,350.0 247.2,350.0 257.0,350.0 C266.8,350.0 276.7,350.0 286.5,350.0 C296.3,350.0 306.2,350.0 316.0,350.0 C325.8,350.0 335.7,350.0 345.5,350.0 C355.3,350.0 365.2,350.0 375.0,350.0 C384.8,350.0 394.7,350.0 404.5,350.0 C414.3,350.0 424.2,350.0 434.0,350.0 C443.8,350.0 453.7,350.0 463.5,350.0 C473.3,350.0 483.2,350.0 493.0,350.0 C502.8,350.0 512.7,350.0 522.5,350.0 C532.3,350.0 542.2,350.0 552.0,350.0 C561.8,350.0 571.7,350.0 581.5,350.0 C591.3,350.0 601.2,350.0 611.0,350.0 C620.8,350.0 630.7,350.0 640.5,350.0 C650.3,350.0 660.2,350.0 670.0,350.0 C679.8,350.0 689.7,350.0 699.5,350.0 C709.3,350.0 719.2,350.0 729.0,350.0 C738.8,350.0 748.7,350.0 758.5,350.0 C768.3,350.0 778.2,350.0 788.0,350.0 C797.8,350.0 807.7,350.0 817.5,350.0 C827.3,350.0 837.2,350.0 847.0,350.0 C856.8,307.2 866.7,136.1 876.5,93.3 C886.3,93.3 896.2,93.3 906.0,93.3 C915.8,136.1 925.7,334.4 935.5,350.0 C945.3,350.0 960.1,213.9 965.0,186.7" fill="none" stroke="#E8000B" stroke-width="2.5"/>
+<circle cx="80.0" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="109.5" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="139.0" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="168.5" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="198.0" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="227.5" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="257.0" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="286.5" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="316.0" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="345.5" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="375.0" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="404.5" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="434.0" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="463.5" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="493.0" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="522.5" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="552.0" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="581.5" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="611.0" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="640.5" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="670.0" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="699.5" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="729.0" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="758.5" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="788.0" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="817.5" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="847.0" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="876.5" cy="93.3" r="4" fill="#ffffff"/>
+<circle cx="906.0" cy="93.3" r="4" fill="#ffffff"/>
+<circle cx="935.5" cy="350.0" r="4" fill="#ffffff"/>
+<circle cx="965.0" cy="186.7" r="4" fill="#ffffff"/>
+<text x="522.5" y="402" text-anchor="middle" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#ffffff">Jours</text>
+<text transform="translate(24,210.0) rotate(-90)" text-anchor="middle" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#ffffff">Contributions</text>
+</svg>
