@@ -21,7 +21,7 @@
 </p>
 
 <p align="justify">
-<b>Crochetage</b> : bot Windows pour le mini-jeu de crochetage de FiveM. Capture <code>mss</code> d'une petite zone autour du cercle, détection du centre par <b>RANSAC</b> sur les traits de l'aiguille, lecture de la lettre par <b>template matching</b>, barre et aiguille en <b>HSV</b> sur l'anneau, appui anticipé selon la vitesse mesurée, envoi par <code>SendInput</code> en scancode. Journal JSONL de chaque check, simu <code>Tkinter</code> pour le calage : <b>221/221</b> checks au dernier run.
+<b>Crochetage</b> : bot Windows pour le mini-jeu de crochetage de FiveM. Capture <b>DXGI</b> (<code>dxcam</code>, 0,3 ms par image) d'une petite zone autour du cercle, détection du centre par <b>RANSAC</b> sur les traits de l'aiguille, lecture de la lettre par <b>template matching</b>, barre et aiguille en <b>HSV</b> sur l'anneau, appui anticipé selon la vitesse mesurée, envoi par <code>SendInput</code> en scancode. Journal JSONL de chaque check, simu <code>Tkinter</code> pour le calage : <b>221/221</b> checks au dernier run.
 </p>
 
 <br clear="left">
