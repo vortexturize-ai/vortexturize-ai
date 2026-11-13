@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150">
+<defs>
+  <linearGradient id="v1" x1="0" x2="1"><stop offset="0" stop-color="#E32344"/><stop offset="1" stop-color="#F04A7A"/></linearGradient>
+  <linearGradient id="v2" x1="0" x2="1"><stop offset="0" stop-color="#2F5BD3"/><stop offset="1" stop-color="#36B3FF"/></linearGradient>
+</defs>
+<path fill="url(#v2)" opacity=".55">
+  <animate attributeName="d" dur="9s" repeatCount="indefinite" values="
+    M0 70 C 200 30 400 110 600 70 C 800 30 1000 110 1200 70 V150 H0 Z;
+    M0 80 C 200 120 400 40 600 80 C 800 120 1000 40 1200 80 V150 H0 Z;
+    M0 70 C 200 30 400 110 600 70 C 800 30 1000 110 1200 70 V150 H0 Z"/>
+</path>
+<path fill="url(#v1)" opacity=".65">
+  <animate attributeName="d" dur="7s" repeatCount="indefinite" values="
+    M0 95 C 250 130 450 65 650 95 C 850 125 1050 70 1200 95 V150 H0 Z;
+    M0 100 C 250 70 450 125 650 100 C 850 75 1050 125 1200 100 V150 H0 Z;
+    M0 95 C 250 130 450 65 650 95 C 850 125 1050 70 1200 95 V150 H0 Z"/>
+</path>
+<text x="600" y="34" text-anchor="middle" font-family="Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="16" letter-spacing="5" fill="#8E8EA6">MERCI D'ÊTRE PASSÉ</text>
+</svg>
