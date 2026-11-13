@@ -52,9 +52,9 @@
       <ellipse cx="-15" cy="7" rx="4" ry="2.4" fill="#FF9AB0"/><ellipse cx="15" cy="7" rx="4" ry="2.4" fill="#FF9AB0"/>
     </g>
   </g>
-  <text x="600" y="170" text-anchor="middle" font-family="'Segoe UI Black', 'Arial Black', 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="900" font-size="108"
-        textLength="700" lengthAdjust="spacingAndGlyphs" fill="url(#titre)" filter="url(#lueur)">vortexturize</text>
-  <text x="600" y="226" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="29" font-weight="600" fill="#E4E4EE">je fabrique des apps qui servent vraiment</text>
-  <text x="600" y="274" text-anchor="middle" font-family="Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="17" letter-spacing="4" fill="#8E8EA6">MOBILE  ·  DESKTOP  ·  LOCAL D'ABORD  ·  OPEN SOURCE</text>
+  <text x="600" y="180" text-anchor="middle" font-family="'Segoe UI Black', 'Arial Black', 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="900" font-size="146"
+        textLength="440" lengthAdjust="spacingAndGlyphs" fill="url(#titre)" filter="url(#lueur)">sk8rt</text>
+  <text x="600" y="232" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="29" font-weight="600" fill="#E4E4EE">je fabrique des apps qui servent vraiment</text>
+  <text x="600" y="278" text-anchor="middle" font-family="Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="17" letter-spacing="4" fill="#8E8EA6">MOBILE  ·  DESKTOP  ·  LOCAL D'ABORD  ·  OPEN SOURCE</text>
 </g>
 </svg>
