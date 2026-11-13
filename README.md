@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/entete.svg" alt="sk8rt : je fabrique des apps qui servent vraiment" width="100%">
+  <img src="assets/entete-sk8rt.svg" alt="sk8rt : je fabrique des apps qui servent vraiment" width="100%">
 </p>
 
 <p align="center">
