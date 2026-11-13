@@ -13,20 +13,20 @@
 <img align="left" src="assets/embleme.png" alt="" width="330">
 
 <p align="justify">
-Je suis <b>sk8rt</b>, <b>développeur indépendant</b> en France. Je fabrique des <b>apps qui servent vraiment</b> : des outils qui règlent un <b>vrai problème du quotidien</b>, expliqués simplement. Mon fil rouge, c'est le <b>local d'abord</b> : tes données restent sur ta machine, sans compte et sans serveur à qui faire confiance.
+<b>sk8rt</b>, dev indé basé en France. Je code surtout en <code>TypeScript</code> et en <code>Python</code> : du <b>mobile</b> avec <code>React Native</code> / <code>Expo</code>, des <b>outils Windows</b> et de la <b>vision par ordinateur</b> avec <code>OpenCV</code>.
 </p>
 
 <p align="justify">
-Mon projet principal, c'est <b>Paperasse</b> : une <b>app mobile gratuite et open source</b> qui range et explique les papiers administratifs (CAF, impôts, amendes, fiches de paie, contrats). Ce que c'est, quoi faire, avant quelle date, en 4 langues. Elle est faite avec <code>React Native</code>, <code>Expo</code>, <code>TypeScript</code> et une base <code>SQLCipher</code> chiffrée, et <b>tout reste sur le téléphone</b>.
+<b>Paperasse</b> : app mobile qui classe et explique les papiers administratifs (CAF, impôts, amendes, fiches de paie, contrats) : nature du document, démarche à faire, date limite. 4 langues, lecture à voix haute, coffre chiffré avec <code>SQLCipher</code>, sauvegarde chiffrée de bout en bout, détecteur d'arnaques. Stack : <code>React Native</code>, <code>Expo</code>, <code>TypeScript</code>. Sortie Android en cours, iOS ensuite.
 </p>
 
 <p align="justify">
-Côté Windows, j'ai construit <b>Crochetage</b>, en <code>Python</code> et <code>OpenCV</code> : une appli qui joue le <b>mini-jeu de crochetage de FiveM</b>. Elle voit le cercle, lit la lettre, prévoit l'aiguille et appuie pile dans la barre, avec une <b>simulation</b> pour s'entraîner et un <b>journal de A à Z</b> qui aide à régler le moteur. Tout mon code est <b>open source</b> : lisible et vérifiable.
+<b>Crochetage</b> : bot Windows pour le mini-jeu de crochetage de FiveM. Capture <code>mss</code> d'une petite zone autour du cercle, détection du centre par <b>RANSAC</b> sur les traits de l'aiguille, lecture de la lettre par <b>template matching</b>, barre et aiguille en <b>HSV</b> sur l'anneau, appui anticipé selon la vitesse mesurée, envoi par <code>SendInput</code> en scancode. Journal JSONL de chaque check, simu <code>Tkinter</code> pour le calage : <b>221/221</b> checks au dernier run.
 </p>
 
 <br clear="left">
 
-<p align="center"><b>Tu peux cliquer ici</b></p>
+<p align="center"><b>Liens</b></p>
 
 <p align="center">
   <a href="https://github.com/vortexturize-ai/paperasse"><img src="https://img.shields.io/badge/paperasse-E8000B?style=for-the-badge&logo=android&logoColor=white" alt="Paperasse"></a>
@@ -39,9 +39,9 @@ Côté Windows, j'ai construit <b>Crochetage</b>, en <code>Python</code> et <cod
 <img align="right" src="assets/crochet.png" alt="" width="150">
 
 > [!CAUTION]
-> Le code n'est jamais fini, il ne fait que s'améliorer.
+> Projets en développement actif : ça bouge souvent, et `main` peut casser.
 >
-> Ce que tu vois ici est fait pour rester sur ta machine : pas de compte, pas de serveur, pas de pistage.
+> Issues et PR bienvenues.
 
 <br clear="right">
 
